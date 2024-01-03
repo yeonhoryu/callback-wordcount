@@ -1,3 +1,7 @@
+/**
+ * 01022024: Github clone, commit, push and full test
+ */
+
 // This script will run when the page is loaded
 window.onload = () => {
   let result = countWords();
